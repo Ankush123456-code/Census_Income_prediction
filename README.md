@@ -7,6 +7,6 @@ Streamlit
 Data preprocessing 
 Feature Engineering
 ```
-'''
+```
 pip install streamlit
-'''
+```
